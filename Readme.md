@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Николай Юдин](https://up.htmlacademy.ru/htmlcss/35/user/2149809).
-* Наставник: `Неизвестно`.
+* Наставник: `https://htmlacademy.ru/profile/nadiia` !
 
 ---
 
